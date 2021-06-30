@@ -1,0 +1,25 @@
+{
+  "name": "nodeproject2",
+  "version": "1.0.0",
+  "description": "2nd Assignment for Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MisterSmooth/FirstExpressNode.git"
+  },
+  "author": "Sean Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MisterSmooth/FirstExpressNode/issues"
+  },
+  "homepage": "https://github.com/MisterSmooth/FirstExpressNode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
